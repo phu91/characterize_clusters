@@ -1,6 +1,6 @@
 ############### CLUSTER ALGORITHM ##################################
 ####################################################################
-### Original source by Unknown
+### Original source by Sharon Loverde (CSI)
 ### Edited by Phu K. Tang
 # Version 5.1
 # 
